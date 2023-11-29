@@ -1,5 +1,4 @@
 # Extracellular-Action-Potential-Classification
-
 Machine learning code implemented for classification of action potentials in electrode readings from cortical neurons. 
 
 # Overview
